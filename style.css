@@ -60,7 +60,7 @@ a {
 
 @media (max-width: 576px) {
     #header {
-        background-size: initial !important;
+        background-size: cover !important;
         background-position: top !important;
     }
     #header h1 {
@@ -303,6 +303,7 @@ a {
 
 #cv .skill-item>div {
 	text-align: center;
+    color: #fff;
 }
 
 #cv .skill-item .progress-bar-Blue {
